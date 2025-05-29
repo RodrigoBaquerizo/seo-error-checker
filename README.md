@@ -1,0 +1,1 @@
+# seo-error-checker
